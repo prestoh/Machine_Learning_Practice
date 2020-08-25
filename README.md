@@ -4,6 +4,6 @@ If the file is not listed below then it is incomplete:
   * Clothing_Classifier_TensorFlow.ipynb
   * Fraud_Detection_Binary_Classification.ipynb
   
-Models that don't preform well due to data:
+Models that don't preform well due to missing data:
   * Shoe_Price_Regression.ipynb
   * Video_Game_Sales_Regression.ipynb
