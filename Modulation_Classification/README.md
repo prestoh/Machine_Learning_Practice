@@ -1,1 +1,3 @@
-Matlab (modulation classification example) Test accuracy: 96.5909%
+MATLAB folder contains modulation classification using data collected from matlab example: 
+
+RADIOML folder contains modulation classification using RADIOML 2018 dataset from DEEPSIG
