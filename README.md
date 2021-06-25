@@ -1,4 +1,4 @@
-# Machine Learning Pratice
+# Repo for Machine Learning Practice
 If the file is not listed below then it is incomplete:
   * (*)Audio_Analysis.ipynb (file takes up too much space, cannot test data without overloading RAM. Have to rethink preprocessing)
   * Clothing_Classifier_TensorFlow.ipynb
