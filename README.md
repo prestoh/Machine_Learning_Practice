@@ -1,10 +1,8 @@
 # Repo for Machine Learning Practice
-If the file is not listed below then it is incomplete:
-  * (*)Audio_Analysis.ipynb (file takes up too much space, cannot test data without overloading RAM. Have to rethink preprocessing)
-  * Clothing_Classifier_TensorFlow.ipynb
-  * Fraud_Detection_Binary_Classification.ipynb
-  * Transmission_Outage_Detection.ipynb
-  
-Models that don't preform well due to missing data:
-  * Shoe_Price_Regression.ipynb
-  * Video_Game_Sales_Regression.ipynb
+Modulation Classification: Two models built from different data (MATLAB data and RADIOML data set).
+Audio Classifier (file size too large. need preprocessing to make samples smaller).
+Clothing Classifier (Tensorflow example)
+Fraud Detection using Binary Classification: Credit card fraud model
+Shoe Price Regression Model (model/data need improvements)
+Transmission Outage Classifier: CNN model to determine downed power lines
+Video Game Sales Regression Model (Need improvements to data/model)
